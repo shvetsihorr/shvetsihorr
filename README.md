@@ -1,10 +1,14 @@
 ## Welcome to my Data Portfolio! Here, you'll find a summary of my projects.
 
-I'm a junior data analyst with a focus on business intelligence, marketing, and product analytics. In my projects, I use SQL, Google BigQuery, PostgreSQL, Microsoft Excel, Google Sheets, Azure Data Studio, and data visualization tools like Tableau, PowerBI, and Looker Studio. My work centers on transforming data into actionable insights that drive business growth.
+As a data analyst, I specialize in uncovering insights that drive growth, optimize products, and empower marketing strategies. I work with SQL, BigQuery, Tableau, and Python to translate complex data into actionable stories.
 
-I am also currently expanding my skills in Python, including Pandas and Jupyter Notebook, as well as exploring Amplitude and A/B testing.
+Beyond work, I explore how data intersects with digital risks, travel scams, job fraud, and the psychology of online deception — driven by a passion for helping people navigate the digital world safely.
 
-Feel free to explore my projects or get in touch!
+Constantly learning, experimenting, and staying curious — because the best insights often come from where data meets human behavior.
+
+I'm passionate about joining a multicultural, mission-driven team where I can apply my skills, grow continuously, and help solve real-world problems through analytics.
+
+Let's connect if you're building something meaningful with data. 🚀
 
  - LinkedIn: https://www.linkedin.com/in/ihorshvets/
  - Email: shvets.ihor@outlook.com
